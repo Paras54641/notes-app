@@ -10,40 +10,4 @@ Design and develop a simple Notes Android app, which has the following features:
 5. Allow users to update a note. 
 6. Allow the user to delete a note.
 
-## Final prototype
-<p align="center">
-  <img width="auto" height="auto" alt="parallel processing" src="gifs/feature-gif.gif">
-</p>
 
-## Features
-
-1. MVVM architecture.
-2. Repository Pattern.
-3. Modular design (User management module)
-4. Clean and minimal UI design.
-5. Provision to include Network requests when required.
-6. One time sign-in using Google Sign In API.
-8. Ability to search across title and contents
-9. Mark note as important.
-
-## APK
-
-Please find the signed apk file of this app [here](https://github.com/JerrySJoseph/InternShala-Notes-App/tree/master/app/release)
-
-
-License
--------
-
-    Copyright 2014 - 2021 Jerin Sebastian
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
